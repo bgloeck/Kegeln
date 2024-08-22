@@ -1,5 +1,10 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Beschreibung
+
+Diese App enthählt verschiedene Übungen für das Training im Sportkegeln. Benutzer können per Klick auf das Plus-Symbol neue Übungen hinzufügen oder eine Übung zufällig anzeigen, wenn sie auf die ">"-Taste drücken. Die Übungen werden beim Start der App aus einer Datenbank geladen.
+Eine ausführbare Datei für Android finden Sie unter [Downloads/Kegeln](https://github.com/bgloeck/Downloads/Kegeln).
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
